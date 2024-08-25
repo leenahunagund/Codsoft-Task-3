@@ -1,0 +1,9 @@
+.product-catalog {
+    background-color: #aaa992;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.product-catalog .card {
+    border-radius: 8px;
+}

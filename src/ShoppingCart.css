@@ -1,0 +1,14 @@
+.shopping-cart {
+    background-color:rgb(215, 160, 141);
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.shopping-cart ul {
+    padding: 0;
+    list-style: none;
+}
+
+.shopping-cart .list-group-item {
+    border-radius: 8px;
+}
