@@ -1,3 +1,13 @@
+## TASK 4 - Product Catalog
+<b>Description:</b>
+Built a product catalog for an e-commerce website</br>
+<b>Features:</b>
+Display product listings, product details, and a shopping cart.</br>
+<b>Skills:</b>
+React components, state management, basic e-commerce functionality
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
